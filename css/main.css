@@ -1,0 +1,65 @@
+html, 
+body {
+	font-family: Arial, sans-serif;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#map {
+	height: 90%;
+	width: 100%;
+	float: right;
+}
+
+#header {
+	height: 10%;
+	position: 0;
+	z-index: 1;
+	background-color: #232323;
+}
+
+#sidebar {
+	width: 20%;
+	top: 0;
+	z-index: 1;
+	position: fixed;
+	height: 100vh;
+	overflow: hidden;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-size: 1.5em;
+}
+
+#hamburger {
+	font-size: 24px;
+	color: white;
+}
+
+span {
+	margin-top: 50%;
+	position: relative;
+	left: 21%;
+	top: 50%;
+	cursor: pointer;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	text-align: left;
+}
+
+li {
+	padding: 20px 0px 20px 10px;
+	height: 20px;
+	cursor: pointer;
+}
+
+li:hover {
+	background-color: gray;
+}
