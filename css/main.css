@@ -72,3 +72,21 @@ img {
 	margin-right: auto;
 	padding-right: 5px;
 }
+
+@media only screen and (max-width: 500px) {
+    h1 {
+    	font-size: 2em;
+    }
+
+    li {
+    	font-size: 1.5em;
+    }
+
+    #sidebar {
+    	width: 30em;
+    }
+
+    #hamburger {
+    	font-size: 5em;
+    }
+}
