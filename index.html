@@ -17,6 +17,9 @@
 		<div id="places-container">
 			<ul data-bind="foreach: locationList">
 				<li data-bind="text: $data.name, click: $root.showInfo"></li>
+				<div class="dropdown" data-bind="visible: $data.showDropdown">
+					<img data-bind="attr: { src: $data.img}" alt="Beach View">
+				</div>
 			</ul>
 		</div>
 	</div>
