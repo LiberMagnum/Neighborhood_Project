@@ -75,11 +75,11 @@ img {
 
 @media only screen and (max-width: 500px) {
     h1 {
-    	font-size: 4em;
+    	font-size: 40px;
     }
 
     li {
-    	font-size: 3em;
+    	font-size: 30px;
     }
 
     #sidebar {
@@ -87,6 +87,6 @@ img {
     }
 
     #hamburger {
-    	font-size: 10em;
+    	font-size: 30px;
     }
 }
