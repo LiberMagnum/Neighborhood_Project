@@ -81,7 +81,7 @@ var viewModel = function() {
 		if (this.list.css('display') !== 'block') {
 			this.list.css('display', 'block');
 			this.map.css('width', '100%');
-			this.icon.css('left', '255px');
+			this.icon.css('left', '400px');
 		}
 		else {
 			this.list.css('display', 'none');
