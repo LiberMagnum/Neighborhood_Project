@@ -20,7 +20,7 @@ body {
 }
 
 #sidebar {
-	width: 250px;
+	width: 25em;
 	top: 0;
 	z-index: 1;
 	position: fixed;
@@ -36,14 +36,14 @@ h1 {
 }
 
 #hamburger {
-	font-size: 24px;
+	font-size: 3em;
 	color: white;
 }
 
 span {
 	margin-top: 50%;
 	position: relative;
-	left: 255px;
+	left: 400px;
 	top: 50%;
 	cursor: pointer;
 }
