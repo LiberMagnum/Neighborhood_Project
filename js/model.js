@@ -4,12 +4,12 @@ var locations = [
 		position: {lat: 26.4450618, lng: 127.7714252}
 	},
 	{
-		name: "Mermaid's Grotto",
-		position: {lat: 26.499259, lng: 127.843476}
+		name: "Kadena Marina",
+		position: {lat: 26.351209, lng: 127.745474}
 	},
 	{
-		name: "Toilet Bowl",
-		position: {lat: 26.503703, lng: 127.845942}
+		name: "Sunabe Seawall",
+		position: {lat: 26.335189, lng: 127.745531}
 	},
 	{
 		name: "Cape Zanpa",
